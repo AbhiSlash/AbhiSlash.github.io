@@ -8,6 +8,7 @@
 
 html{
   background-color: #000000;
+	scale: 150%
 }
 
 .ptable table{
@@ -16,7 +17,7 @@ html{
 }
 
 .ptable{
-	margin: 0px 0% 0% 0%;
+	margin: 500px 0% 500px 0%;
 }
 
 th, td {
